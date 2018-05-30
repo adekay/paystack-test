@@ -7,8 +7,8 @@ This is my implimentation of the application for the code exercise stage of the 
 This application is built with angularjs using babel transpiled ES6 syntax.
 
 ### note
-The API secret key used in the application is stored in the .env file in the root of the application as API_KEY and its value is currently a none funtional string for security reasons.
-Replace string with the test secret key string;
+The API secret key used in the application is stored in the .env file in the root of the application as API_KEY and its value is currently a none functional string for security reasons.
+Replace string with the test secret key string.
 
 ### warning
 Do not commit API secret key to repo, gitignore .evn file if need be.

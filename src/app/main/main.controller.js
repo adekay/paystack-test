@@ -43,7 +43,7 @@ export class MainController {
       .text(`as requested in the paystack authenticaton documentation, i did not expose the secret key on the client side code 
       neither did i commit it to the git repository instead i placed it in the environment variable API_KEY. so to get this application to work,
       you have to add secrect key to the environment variable process.env.API_KEY manually by replacng the "place sercet key here" text 
-      in the .env file at the root of the applicaton with your secret key...in this case the test secret key provided in the email`);
+      in the .env file at the root of the applicaton with your secret key...in this case the test secret key provided in the email or check your internet connection`);
     });
   }
 
