@@ -1,6 +1,6 @@
-# Read Me
+# Read me - Important
 
-This is my implimentation application for the code exercise stage of the paystack front end developer role as requested.
+This is my implimentation of the application for the code exercise stage of the paystack front end developer role as requested.
 
 ## About
 
